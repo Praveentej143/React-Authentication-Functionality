@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.nav-links-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+}
+.nav-link {
+  margin-right: 15px;
+}
